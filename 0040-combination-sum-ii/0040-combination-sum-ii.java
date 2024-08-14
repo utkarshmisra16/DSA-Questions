@@ -1,42 +1,24 @@
 class Solution {
-
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-        List<List<Integer>> list = new LinkedList<List<Integer>>();
         Arrays.sort(candidates);
-        backtrack(list, new ArrayList<Integer>(), candidates, target, 0);
-        return list;
+        List<List<Integer>> ans = new ArrayList<>();
+        findComb(0, target, candidates, ans, new ArrayList<>());
+        return ans;
     }
+    private void findComb(int idx, int target, int arr[], List<List<Integer>> ans, ArrayList<Integer> list){
+        if(target == 0){
+            ans.add(new ArrayList<>(list));
+            return;
+        }
+        for(int i=idx; i<arr.length; i++){
+        if(i>idx && arr[i] == arr[i-1])
+            continue;
 
-    private void backtrack(
-        List<List<Integer>> answer,
-        List<Integer> tempList,
-        int[] candidates,
-        int totalLeft,
-        int index
-    ) {
-        if (totalLeft < 0) return;
-        else if (totalLeft == 0) { // Add to the answer array, if the sum is equal to target.
-            answer.add(new ArrayList<>(tempList));
-        } else {
-            for (
-                int i = index;
-                i < candidates.length && totalLeft >= candidates[i];
-                i++
-            ) {
-                if (i > index && candidates[i] == candidates[i - 1]) continue;
-                // Add it to tempList.
-                tempList.add(candidates[i]);
-                // Check for all possible scenarios.
-                backtrack(
-                    answer,
-                    tempList,
-                    candidates,
-                    totalLeft - candidates[i],
-                    i + 1
-                );
-                // Backtrack the tempList.
-                tempList.remove(tempList.size() - 1);
-            }
+        if(arr[i] > target)
+            break;
+        list.add(arr[i]);
+        findComb(i+1, target - arr[i], arr, ans, list);
+        list.remove(list.size()-1);
         }
     }
 }
