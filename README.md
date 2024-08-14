@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0040-combination-sum-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0215-kth-largest-element-in-an-array) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Backtracking
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -54,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
