@@ -68,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0215-kth-largest-element-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
