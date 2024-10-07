@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0042-trapping-rain-water) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -97,8 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0459-repeated-substring-pattern) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String Matching
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0459-repeated-substring-pattern) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
