@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0349-intersection-of-two-arrays) |
+| [0983-validate-stack-sequences](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0983-validate-stack-sequences) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Backtracking
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0042-trapping-rain-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0983-validate-stack-sequences](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0983-validate-stack-sequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0983-validate-stack-sequences](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0983-validate-stack-sequences) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
