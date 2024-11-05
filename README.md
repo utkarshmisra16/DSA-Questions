@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0112-path-sum](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0112-path-sum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0112-path-sum](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0112-path-sum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -57,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0112-path-sum) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0112-path-sum) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Matrix
 |  |
