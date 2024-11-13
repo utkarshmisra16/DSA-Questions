@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String Matching
 |  |
