@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0349-intersection-of-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0459-repeated-substring-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0242-valid-anagram](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0349-intersection-of-two-arrays) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1547-destination-city](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1547-destination-city) |
