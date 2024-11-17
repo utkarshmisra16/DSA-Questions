@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0349-intersection-of-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Quickselect
 |  |
 | ------- |
