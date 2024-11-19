@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0459-repeated-substring-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1547-destination-city) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2032-largest-odd-number-in-string) |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2032-largest-odd-number-in-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
