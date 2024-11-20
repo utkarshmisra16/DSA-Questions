@@ -1,26 +1,22 @@
-public class Solution {
+class Solution {
     public int maxScore(String s) {
-        int n = s.length();
-        int res = Integer.MIN_VALUE;
-
-        for (int i = 0; i < n - 1; i++) {
-            int zeros = 0;
-            for (int j = 0; j <= i; j++) {
-                if (s.charAt(j) == '0') {
-                    zeros++;
-                }
-            }
-
-            int ones = 0;
-            for (int j = i + 1; j < n; j++) {
-                if (s.charAt(j) == '1') {
-                    ones++;
-                }
-            }
-
-            res = Math.max(res, zeros + ones);
+        int tOnes=0;
+        int res=0;
+        for(int i=0; i<s.length(); i++){
+            if(s.charAt(i) == '1')
+                tOnes++;
         }
+        int zeros=0;
+        int ones=0;
+        for(int i=0; i<s.length()-1; i++){
+            if(s.charAt(i) == '1')
+                ones++;
+            else
+                zeros++;
 
+            int ROnes = tOnes - ones;
+            res = Math.max(res, zeros+ROnes);
+        }
         return res;
     }
 }
