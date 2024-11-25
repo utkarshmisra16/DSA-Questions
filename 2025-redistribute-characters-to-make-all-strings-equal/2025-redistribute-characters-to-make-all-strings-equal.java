@@ -6,10 +6,10 @@ class Solution {
                 arr[ch-'a']++;
             }
         }  
-        for(int i=0; i<26; i++){
-            if(arr[i]%words.length != 0)
-                return false;
-        }
+        // for(int i=0; i<26; i++){
+        //     if(arr[i]%words.length != 0)
+        //         return false;
+        // }
 
         // Map <Character, Integer> mp = new HashMap<>();
         // for(String word : words){
@@ -21,6 +21,6 @@ class Solution {
         //     if(value%words.length != 0)
         //         return false;
         // }
-        return true;
+        return Arrays.stream(arr).allMatch(c -> c % words.length == 0);
     }
 }
