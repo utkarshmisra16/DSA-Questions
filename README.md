@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1975-minimum-distance-to-the-target-element](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2756-buy-two-chocolates](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/3241-divide-array-into-arrays-with-max-difference) |
