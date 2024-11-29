@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0459-repeated-substring-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0242-valid-anagram](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0387-first-unique-character-in-a-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1547-destination-city](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1619-path-crossing) |
@@ -203,10 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0387-first-unique-character-in-a-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0387-first-unique-character-in-a-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 ## Math
