@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3055-maximum-odd-binary-number](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/3055-maximum-odd-binary-number) |
 ## String Matching
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2756-buy-two-chocolates](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2756-buy-two-chocolates) |
+| [3055-maximum-odd-binary-number](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/3055-maximum-odd-binary-number) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0268-missing-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2032-largest-odd-number-in-string) |
+| [3055-maximum-odd-binary-number](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/3055-maximum-odd-binary-number) |
 ## Prefix Sum
 |  |
 | ------- |
