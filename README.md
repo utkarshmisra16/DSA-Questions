@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0658-find-k-closest-elements) |
 | [0898-transpose-matrix](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0898-transpose-matrix) |
 | [0983-validate-stack-sequences](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0983-validate-stack-sequences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -48,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0349-intersection-of-two-arrays) |
+| [0658-find-k-closest-elements](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Binary Tree
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0658-find-k-closest-elements) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2756-buy-two-chocolates](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2756-buy-two-chocolates) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0658-find-k-closest-elements) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Dynamic Programming
 |  |
@@ -234,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
