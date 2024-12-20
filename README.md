@@ -243,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0658-find-k-closest-elements) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
