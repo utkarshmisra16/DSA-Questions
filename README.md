@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0658-find-k-closest-elements) |
+| [1894-merge-strings-alternately](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Dynamic Programming
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-path-crossing](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1619-path-crossing) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
+| [1894-merge-strings-alternately](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1904-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
