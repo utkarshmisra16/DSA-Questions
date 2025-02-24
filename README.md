@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0042-trapping-rain-water) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0242-valid-anagram) |
