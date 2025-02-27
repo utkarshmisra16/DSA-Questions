@@ -9,7 +9,11 @@ class Solution {
             char ch=t.charAt(i);
             arr[ch-'a']--;
         }
-       boolean allzeros = Arrays.stream(arr).allMatch(element -> element == 0);
-       return allzeros;
+        for(int i=0; i<26; i++){
+            if(arr[i]!=0)
+                return false;
+        }
+    //    
+    return true;
     }
 }
