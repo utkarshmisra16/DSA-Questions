@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0008-string-to-integer-atoi) |
 | [0242-valid-anagram](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0387-first-unique-character-in-a-string) |
