@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0059-spiral-matrix-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0242-valid-anagram) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0008-string-to-integer-atoi) |
+| [0049-group-anagrams](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0387-first-unique-character-in-a-string) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0242-valid-anagram) |
