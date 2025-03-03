@@ -7,11 +7,12 @@ class Solution {
         for(String s : strs){
             char[] ch = s.toCharArray();
             Arrays.sort(ch);
-            String key = new String(ch);
-            if(!Map.containsKey(key)){
-                Map.put(key, new ArrayList<>());
+            
+            String str = new String(ch);         
+            if(!Map.containsKey(str)){
+                Map.put(str, new ArrayList<>());
             }
-            Map.get(key).add(s);
+            Map.get(str).add(s);
         }
         return new ArrayList<>(Map.values());
     }
