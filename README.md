@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0042-trapping-rain-water) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0344-reverse-string) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0957-minimum-add-to-make-parentheses-valid) |
