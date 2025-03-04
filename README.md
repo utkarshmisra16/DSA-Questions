@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0042-trapping-rain-water) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0217-contains-duplicate) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0344-reverse-string) |
