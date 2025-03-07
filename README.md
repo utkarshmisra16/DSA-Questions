@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0455-assign-cookies) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Bit Manipulation
