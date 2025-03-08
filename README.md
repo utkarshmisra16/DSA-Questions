@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0739-daily-temperatures) |
 | [0898-transpose-matrix](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0898-transpose-matrix) |
 | [0983-validate-stack-sequences](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0983-validate-stack-sequences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0143-reorder-list) |
 | [0402-remove-k-digits](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0983-validate-stack-sequences) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0739-daily-temperatures) |
 ## String
 |  |
 | ------- |
