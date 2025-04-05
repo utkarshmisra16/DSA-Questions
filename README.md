@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1975-minimum-distance-to-the-target-element) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2756-buy-two-chocolates](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0040-combination-sum-ii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1806-count-of-matches-in-tournament](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1806-count-of-matches-in-tournament) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2032-largest-odd-number-in-string) |
 | [3055-maximum-odd-binary-number](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/3055-maximum-odd-binary-number) |
 ## Prefix Sum
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0268-missing-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -306,4 +310,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
