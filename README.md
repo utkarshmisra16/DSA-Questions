@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0739-daily-temperatures) |
