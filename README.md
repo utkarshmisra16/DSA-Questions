@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0898-transpose-matrix) |
 | [0983-validate-stack-sequences](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0983-validate-stack-sequences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1470-shuffle-the-array](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1470-shuffle-the-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-destination-city](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1547-destination-city) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
