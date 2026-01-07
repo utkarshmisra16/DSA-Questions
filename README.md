@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-special-positions-in-a-binary-matrix](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1929-concatenation-of-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0983-validate-stack-sequences) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1806-count-of-matches-in-tournament](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1806-count-of-matches-in-tournament) |
+| [1929-concatenation-of-array](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1929-concatenation-of-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
