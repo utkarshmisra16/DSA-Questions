@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/utkarshmisra16/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0368-largest-divisible-subset) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/utkarshmisra16/DSA-Questions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0143-reorder-list) |
+| [0283-move-zeroes](https://github.com/utkarshmisra16/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0443-string-compression) |
