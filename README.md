@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0739-daily-temperatures) |
 | [0898-transpose-matrix](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0898-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/utkarshmisra16/DSA-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-validate-stack-sequences](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0983-validate-stack-sequences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0658-find-k-closest-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/utkarshmisra16/DSA-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/0658-find-k-closest-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/utkarshmisra16/DSA-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utkarshmisra16/Radhey-Radhey/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
